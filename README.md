@@ -50,19 +50,19 @@ node test.js
 
 💡 Features
 
-🔐 User authentication (login/signup)
-👚 Product listing for men, women, and kids
-🛒 Add to cart & remove from cart functionality
-💻 Admin dashboard for uploading new products
-📸 Image upload & preview
-🧪 Selenium-based automated testing
-📦 REST API integration with MongoDB
+* 🔐 User authentication (login/signup)
+* 👚 Product listing for men, women, and kids
+* 🛒 Add to cart & remove from cart functionality
+* 💻 Admin dashboard for uploading new products
+* 📸 Image upload & preview
+* 📦 REST API integration with MongoDB
+* 🧪 Selenium-based automated testing
 
 🌐 Tech Stack
 
-✅React.js (frontend)
-✅Vite + React (admin)
-✅Node.js + Express.js (backend)
-✅MongoDB (database)
-✅Multer (image uploads)
-✅Selenium (testing)
+* React.js (frontend)
+* Vite + React (admin)
+* Node.js + Express.js (backend)
+* MongoDB (database)
+* Multer (image uploads)
+* Selenium (testing)
